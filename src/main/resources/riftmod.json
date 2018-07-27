@@ -1,9 +1,10 @@
 {
-  "id": "halflogs",
-  "name": "Half Logs",
+  "id": "halflogskt",
+  "name": "Half Logs Kotlin",
   "authors": [
     "Runemoro",
-    "CaptainKyros"
+    "CaptainKyros",
+    "Nikhil Jha"
   ],
   "listeners": [
     "org.dimdev.halflogs.HalfLogs"
